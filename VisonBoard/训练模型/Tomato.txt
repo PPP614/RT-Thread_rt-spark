@@ -1,0 +1,6 @@
+Early_blight
+Healthy
+Leaf_Mold
+Mosaic_virus
+Spider_mites Two-spotted_spider_mite
+Yellow_Leaf_Curl_Virus

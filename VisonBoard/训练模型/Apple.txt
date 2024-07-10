@@ -1,0 +1,8 @@
+Alternaria_leaf_spot
+Black_rot
+Brown_Spot
+Grey_spot
+Healthy
+Mosaic
+Rust
+Scab
